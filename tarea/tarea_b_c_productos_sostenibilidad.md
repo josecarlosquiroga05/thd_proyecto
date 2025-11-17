@@ -93,12 +93,51 @@ Aplicación: si VENTA BOBITO vende producto visual (muebles, decoración, wearab
 ---
 
 ## 🧠 Reflexión final
-- ¿Qué tecnología aporta más valor a los productos/servicios?
-- ¿Cuál genera mayor impacto sostenible?
-- ¿Qué combinación sería más eficiente para la empresa?
+¿Qué tecnología aporta más valor a los productos/servicios?
+Para un comercio minorista como VENTA BOBITO, IA + Big Data aportan el mayor valor inmediato (personalización, previsión de demanda, optimización de surtido y marketing). 
+Eagle Eye
++1
+
+¿Cuál genera mayor impacto sostenible?
+IoT + Big Data (combinados) permiten el mayor impacto en eficiencia energética y reducción de residuos (control de temperatura, optimización de stock y energía en tienda). 
+Mesh Systems
++1
+
+¿Qué combinación sería más eficiente para la empresa?
+Una combinación práctica y eficiente: Cloud (infraestructura) + Big Data (análisis) + IA (personalización y demanda), complementada con IoT en almacén y ciberseguridad robusta. Blockchain y AR se adoptan por fases según producto y diferenciación (trazabilidad para alimentación; AR para productos visuales). 
+Shopify
++2
+AtliQ AI
++2
 
 ## 📚 Fuentes consultadas
-(Enlaces a las noticias o informes usados)
+Tesco — personalización / Clubcard: 
+Eagle Eye
++1
+
+PepsiCo / IoT case: 
+Mesh Systems
+
+Amazon “Just Walk Out” (cashierless / IoT+CV): 
+Reuters
++1
+
+Shopify + Google Cloud / Shopify cloud journey: 
+Shopify
++1
+
+Walmart + IBM Food Trust (blockchain trazabilidad): 
+tech.walmart.com
++1
+
+Kaseya / REvil (ransomware supply-chain case): 
+WIRED
++1
+
+IKEA Place (RA/AR app): 
+El Programa de la Publicidad
++1
+
 
 
 
