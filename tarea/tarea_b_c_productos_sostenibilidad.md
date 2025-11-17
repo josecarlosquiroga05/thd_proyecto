@@ -51,14 +51,46 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-- Caso IA:
-- Caso IoT:
-- Caso Big Data:
-- Caso Cloud:
-- Caso Blockchain:
-- Caso Ciberseguridad:
-- Caso RA/RV:
+Caso IA: Tesco — personalización/Clubcard
+Resumen: Tesco usa análisis avanzado e IA para personalizar ofertas y “Challenges” que aumentan engagement y ventas.
+Aplicación para VENTA BOBITO: implementar recomendaciones en la web/app y campañas personalizadas por historial para aumentar ticket medio. 
+Eagle Eye
++1
 
+Caso IoT: PepsiCo / SodaStream & Amazon “Just Walk Out”
+Resumen: PepsiCo aplica IoT en producción/supply chain para control/eficiencia; Amazon emplea sensores y visión para tiendas sin cajero.
+Aplicación para VENTA BOBITO: sensores en almacén para evitar roturas, control de temperatura si vende perecederos, y piloto de estanterías inteligentes o carrito “smart” para experiencias rápidas. 
+Mesh Systems
++1
+
+Caso Big Data: Tesco (analítica para ahorro y personalización)
+Resumen: uso de feeds de tiendas y datos para optimizar energía y segmentación.
+Aplicación: dashboards para optimizar surtido por tienda/turno, reducir excedentes y ajustar horarios/consumo. 
+AtliQ AI
+
+Caso Cloud: Shopify + Google Cloud / Shopify cloud native
+Resumen: Shopify se apoya en infraestructura cloud para escalabilidad y servicio a millones de comercios.
+Aplicación: migrar ecommerce y analítica a cloud para evitar cuellos de botella en picos y reducir costes operativos. 
+Shopify
++1
+
+Caso Blockchain: Walmart + IBM Food Trust (pork/mango)
+Resumen: trazabilidad en supply chain que reduce el tiempo de rastreo de días a segundos, aumentando la seguridad alimentaria.
+Aplicación: implementar trazabilidad para productos críticos (origen, fechas) para ganar confianza y facilitar recalls. 
+tech.walmart.com
++1
+
+Caso Ciberseguridad: Kaseya / REvil (ransomware supply-chain)
+Resumen: ataque a proveedor de gestión (MSP) que impactó a miles de negocios — lecciones sobre gestión de proveedores, backup y detección.
+Aplicación: mejorar gestión de parches, segmentación de red, backups offline y planes de respuesta para minimizar impacto. 
+WIRED
++1
+
+Caso RA/RV: IKEA Place (AR)
+Resumen: app que permite colocar mobiliario a escala real en el hogar, reduciendo devoluciones y mejorando conversión.
+Aplicación: si VENTA BOBITO vende producto visual (muebles, decoración, wearables), añadir AR en la app para probar productos virtualmente. 
+El Programa de la Publicidad
++1
 ---
 
 ## 🧠 Reflexión final
@@ -68,4 +100,5 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
 
