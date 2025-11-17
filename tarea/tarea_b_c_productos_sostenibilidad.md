@@ -86,7 +86,9 @@ Aplicación: mejorar gestión de parches, segmentación de red, backups offline 
 WIRED
 +1
 
-Caso RA/RV: IKEA Place (AR) Resumen: app que permite colocar mobiliario a escala real en el hogar, reduciendo devoluciones y mejorando conversión. Aplicación: si VENTA BOBITO vende producto visual (muebles, decoración, wearables), añadir AR en la app para probar productos virtualmente. El Programa de la Publicidad +1
+Caso RA/RV: IKEA Place (AR)
+Resumen: app que permite colocar mobiliario a escala real en el hogar, reduciendo devoluciones y mejorando conversión.
+Aplicación: si VENTA BOBITO vende producto visual (muebles, decoración, wearables), añadir AR en la app para probar productos virtualmente
 +1
 ---
 
@@ -97,5 +99,6 @@ Caso RA/RV: IKEA Place (AR) Resumen: app que permite colocar mobiliario a escala
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
 
 
