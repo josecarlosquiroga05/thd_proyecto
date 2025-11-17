@@ -28,15 +28,23 @@ La empresa podría mejorar sus dispositivos digitales, crear una página web con
 ## 🌱 Impacto en la economía sostenible y eficiente
 Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 
-| Tecnología | Ahorro energético | Reducción de residuos | Mejora operativa | Riesgos/limitaciones |
-|-----------|-------------------|-----------------------|------------------|----------------------|
-| IA | | | | |
-| IoT | | | | |
-| Big Data | | | | |
-| Cloud | | | | |
-| Blockchain | | | | |
-| Ciberseguridad | | | | |
-| RA/RV | | | | |
+| Tecnología         |                                                                            Ahorro energético |                                                                                         Reducción de residuos |                                                          Mejora operativa | Riesgos/limitaciones                                                                                                  |
+| ------------------ | -------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- |
+| **IA**             |           Optimización de rutas/logística y previsión de demanda reduce energía transportes. |                                                             Menos sobreaprovisionamiento → menos desperdicio. |                     Automatiza decisiones (previsión, precios dinámicos). | Sesgos en modelos, consumo energético de modelos grandes, necesidad de datos de calidad.                              |
+| **IoT**            |          Sensores permiten control preciso de climatización/iluminación → ahorro energético. | Menos productos caducados por control de temperatura; menos ropas/material defectuoso por detección temprana. |                 Monitorización en tiempo real y mantenimiento predictivo. | Coste inicial de sensores; seguridad/privacidad de datos; obsolescencia. ([Mesh Systems][1])                          |
+| **Big Data**       |                    Optimiza rutas, horarios y consumo (p.ej. ajuste de energía por demanda). |                                                                 Predicción de demanda reduce exceso de stock. |                             Insights para optimizar procesos y marketing. | Calidad/privacidad de datos; cumplimiento normativo (GDPR). ([AtliQ AI][2])                                           |
+| **Cloud**          |               Data centers eficientes (hiperescaladores invierten en eficiencia energética). |                                                           Menos hardware local, ciclo de vida más controlado. |                            Escalabilidad, despliegue rápido, resiliencia. | Dependencia del proveedor; latencia; costes variables. ([Shopify][3])                                                 |
+| **Blockchain**     | No es innatamente “bajo consumo” — blockchains públicas pueden ser costosas energéticamente. |                                              Mejor trazabilidad reduce desperdicio por recalls; evita fraude. | Transparencia en supply chain y procesos automatizados (smart contracts). | Escalabilidad, coste y, según la implementación, consumo energético; complejidad de adopción. ([tech.walmart.com][4]) |
+| **Ciberseguridad** |                 Previene incidentes que generan operaciones de recuperación (consumo extra). |                                                 Evita pérdidas y destrucc. de datos/productos por incidentes. |                 Confianza, continuidad operativa y protección de activos. | Necesidad de inversión continua; riesgo humano (phishing). ([WIRED][5])                                               |
+| **RA/RV**          |                     Menor necesidad de transporte/visita física (AR reduce pruebas físicas). |                                                 Menos devoluciones → menos residuos de embalaje y transporte. | Mejora experiencia de compra y reduce costes logísticos por devoluciones. | Requiere dispositivos compatibles; experiencia variable según calidad de la app. ([El Programa de la Publicidad][6])  |
+
+[1]: https://meshsystems.com/case-study-pepsico/?utm_source=chatgpt.com "Case Study: PepsiCo"
+[2]: https://www.atliq.ai/how-tesco-uses-data-to-personalize-the-shopping-experience/?utm_source=chatgpt.com "Tesco's Data-Driven Personalization: A Deep Dive"
+[3]: https://shopify.engineering/shopifys-cloud-development-journey?utm_source=chatgpt.com "The Journey to Cloud Development: How Shopify Went All- ..."
+[4]: https://tech.walmart.com/content/walmart-global-tech/en_us/blog/post/blockchain-in-the-food-supply-chain.html?utm_source=chatgpt.com "Blockchain in the food supply chain - What does the future ..."
+[5]: https://www.wired.com/story/revil-ransomware-kaseya-flaw-fix-disclosure-april?utm_source=chatgpt.com "The Unfixed Flaw at the Heart of REvil's Ransomware Spree"
+[6]: https://www.programapublicidad.com/ikea-lanza-la-app-ikea-place-amueblar-virtualmente-hogares/?utm_source=chatgpt.com "IKEA lanza la app IKEA Place, para amueblar virtualmente ..."
+
 
 ---
 
@@ -60,3 +68,4 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
